@@ -1,0 +1,12 @@
+This is a help file demonstrating commands you can use:
+
+write str
+prompt str
+var_prompt str
+random int,int
+help func
+exit -
+window str
+text str
+
+Enjoy using Key!
